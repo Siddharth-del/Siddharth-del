@@ -8,6 +8,12 @@
 <div align="center">
 
 <a href="https://github.com/Siddharth-del">
+  <img src="assets/portrait.svg" width="220" alt="Siddharth — dot-matrix portrait" />
+</a>
+
+<br>
+
+<a href="https://github.com/Siddharth-del">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Siddharth;Backend%20Engineer%20%7C%20AI%20Integration;Java%20%7C%20Spring%20Boot%20%7C%20REST%20APIs;Building%20AgriPro%20%E2%80%94%20AI-Powered%20Agri-Tech" alt="Typing SVG" />
 </a>
 
