@@ -1,0 +1,55 @@
+<svg viewBox="0 0 616 436" xmlns="http://www.w3.org/2000/svg">
+<rect width="616" height="436" fill="#0D1117" rx="16"/>
+<g transform="translate(20,20)">
+<rect width="576" height="190" rx="14" fill="#0F1620" stroke="#1F2733" stroke-width="1"/>
+<rect width="4" height="190" rx="2" fill="#38BDF8"/>
+<text x="24" y="34" fill="#E6EDF3" font-size="17" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">AgriPro — Smart Agriculture</text>
+<text x="24" y="56" fill="#E6EDF3" font-size="17" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">System</text>
+<text x="24" y="84" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">Live IoT and AI agriculture platform</text>
+<text x="24" y="102" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">connecting ESP32 sensors and a Weather API to</text>
+<text x="24" y="120" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">monitor soil moisture, temperature, and…</text>
+<rect x="24.0" y="156" width="82.4" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="65.2" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">Spring Boot</text>
+<rect x="114.4" y="156" width="69.6" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="149.2" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">Spring AI</text>
+<rect x="192.0" y="156" width="76.0" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="230.0" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">Gemini API</text>
+<rect x="276.0" y="156" width="76.0" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="314.0" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">PostgreSQL</text>
+<rect x="360.0" y="156" width="44.0" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="382.0" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">ESP32</text>
+<rect x="412.0" y="156" width="63.2" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="443.6" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">REST API</text>
+</g>
+<g transform="translate(20,226)">
+<rect width="280" height="190" rx="14" fill="#0F1620" stroke="#1F2733" stroke-width="1"/>
+<rect width="4" height="190" rx="2" fill="#38BDF8"/>
+<text x="24" y="34" fill="#E6EDF3" font-size="17" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">Smart Email Reply</text>
+<text x="24" y="56" fill="#E6EDF3" font-size="17" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">Generator</text>
+<text x="24" y="84" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">Spring Boot service integrated</text>
+<text x="24" y="102" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">with the Gemini API to analyze</text>
+<text x="24" y="120" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">incoming email content and</text>
+<text x="24" y="138" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">return context-aware replies…</text>
+<rect x="24.0" y="156" width="37.6" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="42.8" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">Java</text>
+<rect x="69.6" y="156" width="82.4" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="110.8" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">Spring Boot</text>
+<rect x="160.0" y="156" width="76.0" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="198.0" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">Gemini API</text>
+</g>
+<g transform="translate(316,226)">
+<rect width="280" height="190" rx="14" fill="#0F1620" stroke="#1F2733" stroke-width="1"/>
+<rect width="4" height="190" rx="2" fill="#38BDF8"/>
+<text x="24" y="34" fill="#E6EDF3" font-size="17" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif">Fitness-Tracker</text>
+<text x="24" y="62" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">RESTful backend for fitness</text>
+<text x="24" y="80" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">activity management with JWT-</text>
+<text x="24" y="98" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">based authentication and role</text>
+<text x="24" y="116" fill="#8B949E" font-size="12.5" font-family="Segoe UI, Helvetica, Arial, sans-serif">enforcement.</text>
+<rect x="24.0" y="156" width="82.4" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="65.2" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">Spring Boot</text>
+<rect x="114.4" y="156" width="76.0" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="152.4" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">PostgreSQL</text>
+<rect x="198.4" y="156" width="50.4" height="22" rx="11" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.7"/>
+<text x="223.6" y="171" fill="#38BDF8" font-size="10.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">Docker</text>
+</g>
+</svg>

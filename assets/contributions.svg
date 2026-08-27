@@ -1,0 +1,58 @@
+<svg viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="areaFill" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1B4B5A" stop-opacity="0.85"/><stop offset="100%" stop-color="#1B4B5A" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="900" height="340" fill="#0D1117" rx="16"/>
+<text x="450.0" y="34" fill="#38BDF8" font-size="20" font-weight="700" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">Siddharth's Contribution Graph</text>
+<line x1="60" y1="290.0" x2="870" y2="290.0" stroke="#1F2733" stroke-width="1" stroke-dasharray="3,4"/>
+<text x="50" y="294.0" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="end">0</text>
+<line x1="60" y1="213.3" x2="870" y2="213.3" stroke="#1F2733" stroke-width="1" stroke-dasharray="3,4"/>
+<text x="50" y="217.3" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="end">2</text>
+<line x1="60" y1="175.0" x2="870" y2="175.0" stroke="#1F2733" stroke-width="1" stroke-dasharray="3,4"/>
+<text x="50" y="179.0" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="end">3</text>
+<line x1="60" y1="136.7" x2="870" y2="136.7" stroke="#1F2733" stroke-width="1" stroke-dasharray="3,4"/>
+<text x="50" y="140.7" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="end">4</text>
+<line x1="60" y1="60.0" x2="870" y2="60.0" stroke="#1F2733" stroke-width="1" stroke-dasharray="3,4"/>
+<text x="50" y="64.0" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="end">6</text>
+<text x="60.0" y="310" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">28</text>
+<text x="199.7" y="310" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">02</text>
+<text x="339.3" y="310" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">07</text>
+<text x="479.0" y="310" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">12</text>
+<text x="618.6" y="310" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">17</text>
+<text x="758.3" y="310" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">22</text>
+<text x="870.0" y="310" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">26</text>
+<path d="M 60.0,290.0 L 60.0,213.3 L 87.9,251.7 L 115.9,290.0 L 143.8,290.0 L 171.7,290.0 L 199.7,290.0 L 227.6,290.0 L 255.5,251.7 L 283.4,175.0 L 311.4,251.7 L 339.3,290.0 L 367.2,290.0 L 395.2,213.3 L 423.1,136.7 L 451.0,60.0 L 479.0,213.3 L 506.9,290.0 L 534.8,290.0 L 562.8,290.0 L 590.7,251.7 L 618.6,213.3 L 646.6,175.0 L 674.5,251.7 L 702.4,290.0 L 730.3,290.0 L 758.3,251.7 L 786.2,213.3 L 814.1,251.7 L 842.1,290.0 L 870.0,290.0 L 870.0,290.0 Z" fill="url(#areaFill)"/>
+<path d="M 60.0,213.3 L 87.9,251.7 L 115.9,290.0 L 143.8,290.0 L 171.7,290.0 L 199.7,290.0 L 227.6,290.0 L 255.5,251.7 L 283.4,175.0 L 311.4,251.7 L 339.3,290.0 L 367.2,290.0 L 395.2,213.3 L 423.1,136.7 L 451.0,60.0 L 479.0,213.3 L 506.9,290.0 L 534.8,290.0 L 562.8,290.0 L 590.7,251.7 L 618.6,213.3 L 646.6,175.0 L 674.5,251.7 L 702.4,290.0 L 730.3,290.0 L 758.3,251.7 L 786.2,213.3 L 814.1,251.7 L 842.1,290.0 L 870.0,290.0" fill="none" stroke="#38BDF8" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="60.0" cy="213.3" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="87.9" cy="251.7" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="115.9" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="143.8" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="171.7" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="199.7" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="227.6" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="255.5" cy="251.7" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="283.4" cy="175.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="311.4" cy="251.7" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="339.3" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="367.2" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="395.2" cy="213.3" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="423.1" cy="136.7" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="451.0" cy="60.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="479.0" cy="213.3" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="506.9" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="534.8" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="562.8" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="590.7" cy="251.7" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="618.6" cy="213.3" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="646.6" cy="175.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="674.5" cy="251.7" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="702.4" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="730.3" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="758.3" cy="251.7" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="786.2" cy="213.3" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="814.1" cy="251.7" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="842.1" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<circle cx="870.0" cy="290.0" r="3" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1.5"/>
+<text x="60" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif">Days</text>
+<text x="870" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="end">sample data — add GH_TOKEN secret for live data</text>
+</svg>

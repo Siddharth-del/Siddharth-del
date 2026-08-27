@@ -1,0 +1,39 @@
+<svg viewBox="0 0 460 500" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="glow" cx="50%" cy="50%" r="60%"><stop offset="0%" stop-color="#38BDF8" stop-opacity="0.25"/><stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="460" height="500" fill="#0F1620" rx="16"/>
+<circle cx="230.0" cy="230.0" r="185" fill="url(#glow)"/>
+<circle cx="230.0" cy="230.0" r="33.0" fill="none" stroke="#1F2733" stroke-width="1"/>
+<circle cx="230.0" cy="230.0" r="66.0" fill="none" stroke="#1F2733" stroke-width="1"/>
+<circle cx="230.0" cy="230.0" r="99.0" fill="none" stroke="#1F2733" stroke-width="1"/>
+<circle cx="230.0" cy="230.0" r="132.0" fill="none" stroke="#1F2733" stroke-width="1"/>
+<circle cx="230.0" cy="230.0" r="165.0" fill="none" stroke="#1F2733" stroke-width="1"/>
+<line x1="230.0" y1="230.0" x2="230.0" y2="65.0" stroke="#1F2733" stroke-width="1"/>
+<text x="230.0" y="39.0" fill="#E6EDF3" font-size="12" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">Java</text>
+<line x1="230.0" y1="230.0" x2="346.7" y2="113.3" stroke="#1F2733" stroke-width="1"/>
+<text x="365.1" y="94.9" fill="#E6EDF3" font-size="12" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" dominant-baseline="middle">Spring Boot</text>
+<line x1="230.0" y1="230.0" x2="395.0" y2="230.0" stroke="#1F2733" stroke-width="1"/>
+<text x="421.0" y="230.0" fill="#E6EDF3" font-size="12" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" dominant-baseline="middle">REST APIs</text>
+<line x1="230.0" y1="230.0" x2="346.7" y2="346.7" stroke="#1F2733" stroke-width="1"/>
+<text x="365.1" y="365.1" fill="#E6EDF3" font-size="12" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="start" dominant-baseline="middle">Spring AI / GenAI</text>
+<line x1="230.0" y1="230.0" x2="230.0" y2="395.0" stroke="#1F2733" stroke-width="1"/>
+<text x="230.0" y="421.0" fill="#E6EDF3" font-size="12" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle" dominant-baseline="middle">PostgreSQL</text>
+<line x1="230.0" y1="230.0" x2="113.3" y2="346.7" stroke="#1F2733" stroke-width="1"/>
+<text x="94.9" y="365.1" fill="#E6EDF3" font-size="12" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="end" dominant-baseline="middle">Docker / CI-CD</text>
+<line x1="230.0" y1="230.0" x2="65.0" y2="230.0" stroke="#1F2733" stroke-width="1"/>
+<text x="39.0" y="230.0" fill="#E6EDF3" font-size="12" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="end" dominant-baseline="middle">JavaScript</text>
+<line x1="230.0" y1="230.0" x2="113.3" y2="113.3" stroke="#1F2733" stroke-width="1"/>
+<text x="94.9" y="94.9" fill="#E6EDF3" font-size="12" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="end" dominant-baseline="middle">Python</text>
+<polygon points="230.0,65.0 346.7,113.3 395.0,230.0 323.3,323.3 230.0,362.0 160.0,300.0 131.0,230.0 160.0,160.0" fill="#38BDF8" fill-opacity="0.18" stroke="#38BDF8" stroke-width="2"/>
+<circle cx="230.0" cy="65.0" r="4" fill="#38BDF8"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.00s" repeatCount="indefinite"/></circle>
+<circle cx="346.7" cy="113.3" r="4" fill="#38BDF8"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.15s" repeatCount="indefinite"/></circle>
+<circle cx="395.0" cy="230.0" r="4" fill="#38BDF8"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.30s" repeatCount="indefinite"/></circle>
+<circle cx="323.3" cy="323.3" r="4" fill="#38BDF8"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.45s" repeatCount="indefinite"/></circle>
+<circle cx="230.0" cy="362.0" r="4" fill="#38BDF8"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.60s" repeatCount="indefinite"/></circle>
+<circle cx="160.0" cy="300.0" r="4" fill="#38BDF8"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.75s" repeatCount="indefinite"/></circle>
+<circle cx="131.0" cy="230.0" r="4" fill="#38BDF8"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.90s" repeatCount="indefinite"/></circle>
+<circle cx="160.0" cy="160.0" r="4" fill="#38BDF8"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="1.05s" repeatCount="indefinite"/></circle>
+<g transform="translate(230.0,230.0)"><line x1="0" y1="0" x2="0" y2="-165" stroke="#38BDF8" stroke-width="1.5" opacity="0.7"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/></line></g>
+<text x="230.0" y="486" fill="#8B949E" font-size="12" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">self-assessed · 1-5 scale · see config.yml</text>
+</svg>

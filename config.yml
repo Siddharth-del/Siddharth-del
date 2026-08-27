@@ -1,0 +1,106 @@
+# ============================================================================
+# PROFILE CONFIG — this is the only file you should need to edit.
+# The GitHub Action re-runs the generator on every change to this file and
+# rebuilds README.md + assets/*.svg automatically. No script editing required.
+# ============================================================================
+
+github_username: "Siddharth-del"   # used for contribution data + all profile links
+
+identity:
+  name: "Siddharth"
+  tagline_lines:                    # cycled by the typing animation in the README
+    - "Siddharth"
+    - "Backend Engineer | AI Integration"
+    - "Java | Spring Boot | REST APIs"
+    - "Building AgriPro — AI-Powered Agri-Tech"
+  location: "Greater Noida, UP, India"
+  summary: >
+    Backend engineer focused on integrating AI models into production systems.
+    Built AgriPro, a live IoT and AI agriculture platform using Spring AI with
+    dynamic prompt engineering to generate context-aware crop recommendations
+    and disease treatment guidance from real-time sensor data. Comfortable
+    across the stack — API design, authentication, database modeling, and
+    containerized deployment — with a Spring Boot and REST API core.
+
+socials:
+  linkedin: "https://www.linkedin.com/in/siddharth-java-dev"
+  email: "GautamSiddharth131004@gmail.com"
+  github: "https://github.com/Siddharth-del"
+  portfolio: "https://siddharth-dev-portfolio.vercel.app/"
+
+about:
+  - "B.Tech in Computer Science and Engineering, Gautam Buddha University, Greater Noida (2022 – 2026)"
+  - "Based in Greater Noida, UP, India"
+  - "Core strength is Java backend development — Spring Boot, Spring Data JPA, Spring Security, REST API design, JWT/OAuth authentication"
+  - "Hands-on experience integrating AI into backend systems: Spring AI, prompt engineering, structured JSON output, and image-based inference"
+  - "Comfortable across the stack when needed — REST API consumption, IoT device integration, and containerized deployment"
+  - "Built and shipped AgriPro, a live IoT + AI agriculture platform, from sensor ingestion through to AI-generated recommendations"
+
+# Skill levels below are SELF-ASSESSED on a 1-5 scale for the radar chart —
+# they are not a claim of objectively measured proficiency. Edit freely.
+skills_radar:
+  - { label: "Java",              level: 5 }
+  - { label: "Spring Boot",       level: 5 }
+  - { label: "REST APIs",         level: 5 }
+  - { label: "Spring AI / GenAI", level: 4 }
+  - { label: "PostgreSQL",        level: 4 }
+  - { label: "Docker / CI-CD",    level: 3 }
+  - { label: "JavaScript",        level: 3 }
+  - { label: "Python",            level: 3 }
+
+tech_stack:
+  Languages: ["Java", "Python", "JavaScript", "SQL"]
+  "Backend & Frameworks": ["Spring Boot", "Spring Security", "Spring Data JPA", "REST API", "JWT", "OAuth", "Microservices"]
+  "AI & ML Integration": ["Spring AI", "Gemini API", "Prompt Engineering", "Image-Based Inference"]
+  Databases: ["PostgreSQL", "MySQL"]
+  "Tools & DevOps": ["Git", "GitHub", "Docker", "Postman", "IntelliJ IDEA", "VS Code", "CI/CD"]
+
+projects:
+  - name: "AgriPro — Smart Agriculture System"
+    description: "Live IoT and AI agriculture platform connecting ESP32 sensors and a Weather API to monitor soil moisture, temperature, and humidity in real time, with AI-generated crop and disease guidance."
+    stack: ["Spring Boot", "Spring AI", "Gemini API", "PostgreSQL", "ESP32", "REST API"]
+    highlights:
+      - "Integrated Spring AI with dynamic prompt engineering for context-aware crop recommendations and disease treatment guidance from live sensor and weather data"
+      - "Built a crop disease detection module that accepts image uploads, returns a confidence score, and delivers AI-generated treatment suggestions"
+      - "Designed 4 RESTful endpoints for sensor ingestion, crop recommendation, and disease detection, with validation, error handling, and pagination"
+      - "Implemented a tri-state irrigation alert system (OK / WARNING / CRITICAL) with automated email notifications and cooldown logic"
+    repo_url: "https://github.com/Siddharth-del/Smart-Agriculture-System-Frontend"
+    demo_url: "https://agripro-ai.vercel.app/"
+  - name: "Smart Email Reply Generator"
+    description: "Spring Boot service integrated with the Gemini API to analyze incoming email content and return context-aware replies as structured JSON."
+    stack: ["Java", "Spring Boot", "Gemini API", "REST API"]
+    highlights:
+      - "Designed prompt templates to improve reply relevance and keep output formatting consistent across email types"
+      - "Implemented request validation and error handling for stable communication with the AI model"
+    repo_url: "https://github.com/Siddharth-del/Smart-Email-Reply-Generator"
+    demo_url: ""
+  - name: "Fitness-Tracker"
+    description: "RESTful backend for fitness activity management with JWT-based authentication and role enforcement."
+    stack: ["Spring Boot", "PostgreSQL", "Docker", "JWT"]
+    highlights:
+      - "Integrated PostgreSQL with optimized entity relationships, deployed to Neon Cloud"
+      - "Containerized with Docker and set up a CI/CD pipeline for automated deployments"
+      - "Validated all endpoints using Postman and ReadyAPI across 15+ API routes"
+    repo_url: "https://github.com/Siddharth-del/Fitness-Tracker"
+    demo_url: ""
+
+certifications:
+  - "Java with Data Structures & Algorithms — PW Skills"
+  - "Java Spring Boot Full Stack eCommerce Project Masterclass — Udemy, April 2026"
+
+currently_learning:
+  - "Advanced Spring AI and prompt engineering patterns"
+  - "Retrieval-Augmented Generation (RAG) and vector databases"
+  - "Microservice architecture and system design"
+  - "Cloud deployment and CI/CD practices"
+
+footer_statement: "Building scalable backend systems and exploring the intersection of Java, AI, and intelligent applications."
+
+theme:
+  bg: "#0D1117"
+  panel_bg: "#0F1620"
+  accent: "#38BDF8"
+  accent_dim: "#1B4B5A"
+  text: "#E6EDF3"
+  muted: "#8B949E"
+  grid: "#1F2733"
