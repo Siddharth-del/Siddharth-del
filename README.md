@@ -7,7 +7,9 @@
 
 <div align="center">
 
-
+<a href="https://github.com/Siddharth-del">
+  <img src="assets/portrait.svg" width="220" alt="Siddharth — dot-matrix portrait" />
+</a>
 
 <br>
 
